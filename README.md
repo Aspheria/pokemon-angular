@@ -1,6 +1,12 @@
 # PokemonApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+I used this api --- https://pokeapi.co/
+And this layout -- https://www.pokemon.com/br/pokedex/
+You can see live: https://pokemon-angular-eta.vercel.app/
+
+![image](https://user-images.githubusercontent.com/53099585/230694080-b4752a6a-0d61-42c4-9440-4e0521015245.png)
+
 
 ## Development server
 
